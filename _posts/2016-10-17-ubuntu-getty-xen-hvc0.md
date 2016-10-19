@@ -23,8 +23,10 @@ exec /sbin/getty -L hvc0 -8 38400 linux
 Reboot, or maybe `kill -1 1` will work for you.
 
 Read more:
-* https://wiki.xenproject.org/wiki/Xen_Common_Problems#Console_of_my_PV_guest_shows_kernel_boot_messages_and_then_it_stops_and_doesn.27t_work_anymore [http://archive.is/zNHJw]
-* http://www-archive.xenproject.org/files/xensummit_4/xensummit_linux_console_slides.pdf [http://archive.is/3Upf0]
+
+* [Xen Common Problems](https://wiki.xenproject.org/wiki/Xen_Common_Problems#Console_of_my_PV_guest_shows_kernel_boot_messages_and_then_it_stops_and_doesn.27t_work_anymore) \([Permalink](http://archive.is/zNHJw)\)
+* [Background info on hvc0](http://www-archive.xenproject.org/files/xensummit_4/xensummit_linux_console_slides.pdf) \([Permalink](http://archive.is/3Upf0)\)
 
 See also:
-* https://unyield.com/server-management/installing-ubuntu-14-04-on-xenserver-6-5-via-url-install-guide/ [http://archive.is/RHcb2]
+
+* [Install Ubuntu 14.04 on XenServer](https://unyield.com/server-management/installing-ubuntu-14-04-on-xenserver-6-5-via-url-install-guide/) \([Permalink](http://archive.is/RHcb2)\)
