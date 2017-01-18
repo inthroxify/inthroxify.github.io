@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 7zip: Create an archive from a file containing pathnames
+title: "7zip: Create an archive from a file containing pathnames"
 ---
 
     7z a -spf2 -t7z -ir@"files_to_include.txt" blah.7z
