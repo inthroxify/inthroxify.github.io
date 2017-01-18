@@ -1,6 +1,6 @@
 ---
 layout: post
-title: vim: use modelines as embedded editor configuration hints
+title: "vim: use modelines as embedded editor configuration hints"
 ---
 
 In the first or last few lines of the file:
