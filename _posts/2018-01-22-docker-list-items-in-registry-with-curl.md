@@ -12,4 +12,4 @@ You will be prompted for a password for the user by curl.
 To get a list of all tags available on an image:
 
     curl -u username -X GET https://reg.example.com/v2/some-image-name/tags/list
-  
+
